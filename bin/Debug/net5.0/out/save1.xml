@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<saveFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <currentLocation>Dungeon</currentLocation>
+  <u level="10">
+    <name>Пушкин</name>
+    <gender>m</gender>
+  </u>
+  <items>
+    <item>
+      <name>Топор</name>
+      <quantity>2</quantity>
+    </item>
+  </items>
+  <createdDate>2026-01-17T08:05:27.7662719Z</createdDate>
+  <saveDate>2026-01-17T08:05:27.7663352Z</saveDate>
+  <fileName>save1</fileName>
+</saveFile>
